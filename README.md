@@ -1,5 +1,9 @@
-Raphaël.FreeTransform
-====================
+This is under heavy development
+===============================
+
+
+Forked from Raphaël.FreeTransform
+=================================
 
   Free transform tool for [Raphaël 2.0](http://raphaeljs.com/) elements and sets with many options. Supports snap-to-grid dragging, scaling and rotating with a specified interval and range.
 
